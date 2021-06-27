@@ -1,6 +1,6 @@
 # HW-3-Week-2-VBA-Challange-The-VBA-of-Wall-Street
-Sub Calculate_MultipleYearStock():
 
+Sub Calculate_MultipleYearStock():
 
 ' Explain Variables
 Dim ticker As String
