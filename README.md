@@ -14,3 +14,9 @@ CHALLENGES
 
 
 Your solution will also be able to return the stock with the "Greatest % increase", "Greatest % decrease" and "Greatest total volume".
+
+![image](https://user-images.githubusercontent.com/85531280/123685037-354f3780-d81c-11eb-9243-c27c42a70d96.png)
+
+![image](https://user-images.githubusercontent.com/85531280/123685057-3d0edc00-d81c-11eb-8b4c-ef5cd6842b20.png)
+
+![image](https://user-images.githubusercontent.com/85531280/123685068-4304bd00-d81c-11eb-969e-4e2b478839dc.png)
